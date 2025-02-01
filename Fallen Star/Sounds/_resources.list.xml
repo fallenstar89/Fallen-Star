@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sound_fantecy" type="RESOURCE"/>
+  <resource name="sound_wonka_intro" type="RESOURCE"/>
+  <resource name="sound_Map" type="RESOURCE"/>
+  <resource name="sound_wonka" type="RESOURCE"/>
+  <resource name="sound_victory" type="RESOURCE"/>
+  <resource name="sound_heehee" type="RESOURCE"/>
+  <resource name="sound_ow" type="RESOURCE"/>
+  <resource name="sound_cecil_damaged" type="RESOURCE"/>
+  <resource name="sound_lost_life" type="RESOURCE"/>
+  <resource name="sound_jump" type="RESOURCE"/>
+  <resource name="sound_attack" type="RESOURCE"/>
+  <resource name="sound_intro" type="RESOURCE"/>
+</resources>

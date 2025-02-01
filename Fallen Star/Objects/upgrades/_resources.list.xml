@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object_cheerios" type="RESOURCE"/>
+  <resource name="object_power_sword" type="RESOURCE"/>
+  <resource name="object_wing_shoes" type="RESOURCE"/>
+  <resource name="object_sheriffs_badge" type="RESOURCE"/>
+</resources>

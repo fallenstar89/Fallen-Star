@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object_fantecy_sound" type="RESOURCE"/>
+  <resource name="object_map_song" type="RESOURCE"/>
+  <resource name="object_intro_sound" type="RESOURCE"/>
+</resources>

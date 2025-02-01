@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object_crater_choose" type="RESOURCE"/>
+  <resource name="object_old_west_choose" type="RESOURCE"/>
+  <resource name="object_jungle_choose" type="RESOURCE"/>
+  <resource name="object_tetris_choose" type="RESOURCE"/>
+  <resource name="object_office_choose" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_tiger" type="RESOURCE"/>
+  <resource name="sprite_bear" type="RESOURCE"/>
+  <resource name="sprite_midgets" type="RESOURCE"/>
+  <resource name="sprite_spitting_cobra" type="RESOURCE"/>
+  <resource name="sprite_moth" type="RESOURCE"/>
+  <resource name="sprite_printer" type="RESOURCE"/>
+  <resource name="sprite_janitors" type="RESOURCE"/>
+  <resource name="sprite_falling_blocks" type="RESOURCE"/>
+  <resource name="sprite_cowboy" type="RESOURCE"/>
+  <resource name="sprite_stampeding_horse" type="RESOURCE"/>
+  <resource name="sprite_blobs" type="RESOURCE"/>
+</resources>

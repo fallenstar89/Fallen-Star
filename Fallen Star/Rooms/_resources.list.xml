@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="room_intro" type="RESOURCE"/>
+  <resource name="room_choose" type="RESOURCE"/>
+  <resource name="room_tetris" type="RESOURCE"/>
+  <resource name="room_old_west" type="RESOURCE"/>
+  <resource name="room_fantecy_land" type="RESOURCE"/>
+  <resource name="room_sheriff" type="RESOURCE"/>
+  <resource name="room_jungle" type="RESOURCE"/>
+  <resource name="room_ape" type="RESOURCE"/>
+  <resource name="room_pimpster" type="RESOURCE"/>
+  <resource name="room_office" type="RESOURCE"/>
+  <resource name="room_game_designer" type="RESOURCE"/>
+  <resource name="room_crater" type="RESOURCE"/>
+  <resource name="room_alien" type="RESOURCE"/>
+</resources>

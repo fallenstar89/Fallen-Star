@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_weapon_right" type="RESOURCE"/>
+  <resource name="sprite_weapon_left" type="RESOURCE"/>
+  <resource name="sprite_coconuts" type="RESOURCE"/>
+  <resource name="sprite_bullet" type="RESOURCE"/>
+  <resource name="sprite_discs" type="RESOURCE"/>
+  <resource name="sprite_music_notes" type="RESOURCE"/>
+</resources>

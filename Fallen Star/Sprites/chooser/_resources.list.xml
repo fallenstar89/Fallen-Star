@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_crater_choose" type="RESOURCE"/>
+  <resource name="sprite_old_west_choose" type="RESOURCE"/>
+  <resource name="sprite_jungle_choose" type="RESOURCE"/>
+  <resource name="sprite_tetris_choose" type="RESOURCE"/>
+  <resource name="sprite_office_choose" type="RESOURCE"/>
+</resources>

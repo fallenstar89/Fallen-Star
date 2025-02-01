@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_cherrios" type="RESOURCE"/>
+  <resource name="sprite_wing_shoes" type="RESOURCE"/>
+  <resource name="sprite_power_sword" type="RESOURCE"/>
+  <resource name="sprite_sheriffs_badge" type="RESOURCE"/>
+</resources>

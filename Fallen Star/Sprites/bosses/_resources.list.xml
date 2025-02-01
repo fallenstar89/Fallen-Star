@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_gorilla" type="RESOURCE"/>
+  <resource name="sprite_ganderson" type="RESOURCE"/>
+  <resource name="sprite_micael_wonka" type="RESOURCE"/>
+  <resource name="sprite_sheriff" type="RESOURCE"/>
+  <resource name="sprite_alien" type="RESOURCE"/>
+  <resource name="sprite_micael_heehee" type="RESOURCE"/>
+  <resource name="sprite_micael_ow" type="RESOURCE"/>
+  <resource name="sprite_micael_spin" type="RESOURCE"/>
+</resources>

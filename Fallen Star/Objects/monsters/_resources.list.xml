@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object_moth" type="RESOURCE"/>
+  <resource name="object_enemy_controller" type="RESOURCE"/>
+  <resource name="object_midgets" type="RESOURCE"/>
+</resources>

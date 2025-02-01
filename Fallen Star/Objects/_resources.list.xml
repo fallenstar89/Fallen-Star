@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_block" type="RESOURCE"/>
+  <resource name="object_block" type="RESOURCE"/>
+  <resource name="object_cecil" type="RESOURCE"/>
+  <resource name="object_weapon" type="RESOURCE"/>
+  <resource name="object_death" type="RESOURCE"/>
+  <resource name="upgrades" type="GROUP"/>
+  <resource name="monsters" type="GROUP"/>
+  <resource name="chooser" type="GROUP"/>
+  <resource name="Variables" type="RESOURCE"/>
+  <resource name="sounds" type="GROUP"/>
+  <resource name="object_play" type="RESOURCE"/>
+  <resource name="object_load" type="RESOURCE"/>
+  <resource name="object_quit" type="RESOURCE"/>
+  <resource name="object_end_level_tetris" type="RESOURCE"/>
+  <resource name="bosses" type="GROUP"/>
+  <resource name="object_pathing" type="RESOURCE"/>
+  <resource name="enemy weapons" type="GROUP"/>
+</resources>

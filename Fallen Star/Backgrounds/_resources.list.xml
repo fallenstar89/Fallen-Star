@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="background2" type="RESOURCE"/>
+  <resource name="background_map" type="RESOURCE"/>
+  <resource name="background_intro" type="RESOURCE"/>
+  <resource name="room" type="GROUP"/>
+</resources>

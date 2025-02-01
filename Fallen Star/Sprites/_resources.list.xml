@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_block" type="RESOURCE"/>
+  <resource name="sprite_death" type="RESOURCE"/>
+  <resource name="monsters" type="GROUP"/>
+  <resource name="bosses" type="GROUP"/>
+  <resource name="upgrades" type="GROUP"/>
+  <resource name="weapons" type="GROUP"/>
+  <resource name="chooser" type="GROUP"/>
+  <resource name="cecil" type="GROUP"/>
+  <resource name="sprite_button" type="RESOURCE"/>
+  <resource name="sprite_play" type="RESOURCE"/>
+  <resource name="sprite_load" type="RESOURCE"/>
+  <resource name="sprite_quit" type="RESOURCE"/>
+  <resource name="sprite_end_level" type="RESOURCE"/>
+  <resource name="sprite_pathing" type="RESOURCE"/>
+</resources>

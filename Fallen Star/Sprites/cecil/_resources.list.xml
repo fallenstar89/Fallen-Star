@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_jumpAttack" type="RESOURCE"/>
+  <resource name="sprite_spinattack" type="RESOURCE"/>
+  <resource name="sprite_cecil_jumping_left" type="RESOURCE"/>
+  <resource name="sprite_cecil_jumping_right" type="RESOURCE"/>
+  <resource name="sprite_cecil_left" type="RESOURCE"/>
+  <resource name="sprite_cecil_falling_left" type="RESOURCE"/>
+  <resource name="sprite_cecil_falling_right" type="RESOURCE"/>
+  <resource name="sprite_cecil_right" type="RESOURCE"/>
+  <resource name="sprite_attack_right" type="RESOURCE"/>
+  <resource name="sprite_attack_left" type="RESOURCE"/>
+</resources>

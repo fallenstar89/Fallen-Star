@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="COLLISION" with="object_end_level_tetris">
+  <actions>
+    <action id="224" library="1">
+      <!--action name: Another_Room-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_another_room</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="ROOM">room_pimpster</argument>
+        <argument kind="MENU">7</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>
